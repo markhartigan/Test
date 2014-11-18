@@ -1,6 +1,10 @@
 This is the first version of a test document.
 This is the second version.
 This is a third version created on Hawk.
+<<<<<<< HEAD
 This is a version updated on Beach.
+=======
+This is a version updated from Hawk during edit on Beach.
+>>>>>>> origin/master
 
 
